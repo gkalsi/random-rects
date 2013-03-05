@@ -1,0 +1,41 @@
+div.horizon {
+	position: absolute;
+	top:50%;
+	height:1px;
+	overflow: visible;
+	width: 100%;
+}
+
+div.enclosure {
+	position: relative;
+	width: 1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+div.content-box {
+	position:relative;
+	height:600px;
+	width:800px;
+	
+	margin-top: -300px;
+	float:left;
+}
+div.title-box {
+	width:200px;
+	height:110px;
+	margin-top: -55px;
+	float:left;
+}
+
+h1 {
+	font-family: 'Cabin', sans-serif;
+	font-size: 42px;
+	color: #555753;
+}
+
+p {
+	font-family: 'Cabin', sans-serif;
+	font-size: 14px;
+	color: #BABDB6;
+}
