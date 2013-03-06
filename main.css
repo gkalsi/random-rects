@@ -22,9 +22,10 @@ div.content-box {
 	float:left;
 }
 div.title-box {
-	width:200px;
+	width:190px;
 	height:110px;
 	margin-top: -55px;
+	margin-left:10px;
 	float:left;
 }
 
